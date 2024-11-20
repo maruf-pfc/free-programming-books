@@ -347,7 +347,7 @@
 
 * [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry
 * [C Language Tutorial Videos](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) - Naresh i Technologies
-* [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Sujeet Singh (Neso Academy)
+* [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Jaspreet Singh (Neso Academy)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
 * [C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/) - Ali Badran (Udemy)
 * [C Programming and Assembly Language](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8O9Oy9t-yhiAUXOi-rmTp_) - NPTEL NOC IITM
@@ -799,6 +799,7 @@
 ### Go
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
+* [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 * [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
 * [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
 * [Go Programming Language Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - ProgrammingKnowledge
@@ -1092,6 +1093,7 @@
 ### Nest.js
 
 * [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw) - freeCodeCamp
+* [Nest.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr) - Net Ninja
 * [NestJs](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) - Marius Espejo
 
 
